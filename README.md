@@ -1,4 +1,14 @@
-## Hi there 👋
+## Dennis C Castro 👋
+
+![Pacific Ocean](<Screenshot 2024-08-05 at 22.10.25.png>)
+
+Dennis Castro is currently a Computer Science Masters Degree candidate at The University of Pennsylvania, School of Engineering and Applied Sciences.
+
+😄 Fun fact about me: I have crossed the Pacific Ocean in a 46' sailboat. I'm currently enjoying the in's and out's of Git and Github.
+
+Languages: Java, Python, JavaScript.
+
+[LinkedIn Profile:](https://www.linkedin.com/in/dennisccastro/)
 
 <!--
 **dennisccastro/dennisccastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
